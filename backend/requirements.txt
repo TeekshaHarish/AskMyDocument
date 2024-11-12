@@ -1,0 +1,10 @@
+langchain-groq
+pydantic
+transformers
+fastapi==0.95.1
+uvicorn==0.23.1
+sqlalchemy==2.0.20
+pymupdf==1.23.2
+langchain==0.0.195
+python-dotenv==1.0.0
+requests==2.31.0
